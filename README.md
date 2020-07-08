@@ -1,0 +1,2 @@
+# SimpelAndroidMysql
+一个通过JDBC来查询Mysql的AndroidApp
